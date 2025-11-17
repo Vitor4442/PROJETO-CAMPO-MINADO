@@ -1,0 +1,5 @@
+package br.com.VTR.cm.excecao;
+
+public class ExplosaoException extends RuntimeException {
+    private static final long serialVersionUID = 1l;
+}
